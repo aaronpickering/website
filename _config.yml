@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Aaron Pickering"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Father, Veteran and Mental Health Advocate."
+  bio    : "Father, Veteran and mental health advocate."
   links:
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
