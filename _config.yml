@@ -56,9 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-header:
-  image: "/assets/images/header_wide_comp.jpg"
   
 author:
   name   : "Aaron Pickering"
