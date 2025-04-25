@@ -27,8 +27,6 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.0"
-header:
-  image: "/assets/images/header_wide_comp.jpg"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -70,6 +68,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
+header:
+  image: "/assets/images/header_wide_comp.jpg"
 
 footer:
   links:
