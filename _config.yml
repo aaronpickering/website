@@ -84,7 +84,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
+    header:
+      image: /assets/images/header_wide_comp.jpg
       author_profile: true
       read_time: true
       comments: true
@@ -97,8 +99,6 @@ defaults:
     values:
       layout: splash
       author_profile: true
-    header:
-      image: /assets/images/header_wide_comp.jpg
 
 category_archive:
   type: liquid
