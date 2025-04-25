@@ -81,6 +81,10 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
+---
+layout: splash
+title: test
+---
   # _posts
   - scope:
       path: ""
@@ -99,11 +103,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
----
-layout: splash
-title: test
----
 
 category_archive:
   type: liquid
