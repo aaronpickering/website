@@ -69,9 +69,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-header:
-  image: /assets/images/header_wide_comp.jpg
-
 footer:
   links:
     - label: "X"
@@ -100,6 +97,8 @@ defaults:
     values:
       layout: splash
       author_profile: true
+    header:
+      image: /assets/images/header_wide_comp.jpg
 
 category_archive:
   type: liquid
