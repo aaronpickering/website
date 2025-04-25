@@ -57,6 +57,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+header:
+  image: "/assets/images/header_wide_comp.jpg"
+  
 author:
   name   : "Aaron Pickering"
   avatar : "/assets/images/bio-photo.jpg"
@@ -68,9 +71,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
-header:
-  image: /assets/images/header_wide_comp.jpg
 
 footer:
   links:
