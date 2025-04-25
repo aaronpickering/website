@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gracelands Farm
-logo: "/assets/images/mhd_17_blr_wh_no_bg.png"
+logo: "/assets/images/blr_wh_no_bg.png"
 email: say.hi@gracelands.farm
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
