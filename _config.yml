@@ -28,7 +28,7 @@ search: true
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.0"
 header:
-  image: /assets/images/header_wide_comp.jpg
+  image: "/assets/images/header_wide_comp.jpg"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -81,10 +81,6 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
----
-layout: splash
-title: test
----
   # _posts
   - scope:
       path: ""
