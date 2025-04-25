@@ -70,7 +70,7 @@ author:
       url: "https://instagram.com/"
 
 header:
-  image: "/assets/images/header_wide_comp.jpg"
+  image: /assets/images/header_wide_comp.jpg
 
 footer:
   links:
